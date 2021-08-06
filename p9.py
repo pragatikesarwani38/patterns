@@ -1,0 +1,5 @@
+l=input("enter length : ")
+b=input("enter breadth : ")
+h=input("enter height :")
+print "volume= ",(l*b*h)
+print"surfarea= ",2*(l*b+b*h+h*l)
